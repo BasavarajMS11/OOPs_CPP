@@ -9,5 +9,5 @@ The repository comprises of class wise concepts from basics to standard pattern.
 - Class 4 : Relations Has, Owns and Uses
 - Class 5 : Inheritance
 - Class 6 : Exception Handling
-- Class 7 : Standard Design Patterns
+- Class 7 : Standard Design Patterns 
 - Example Scenarios and Solutions
